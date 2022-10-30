@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, ALINAWAZ HUSAIN THIS SIDE</h1>
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-- 🌱 I’m currently learning **PYTON, JAVA, DATA SCIENCE, APP DEVELOPMENT**
+- 🌱 I’m currently learning **PYTHON, JAVA, DATA SCIENCE, APP DEVELOPMENT**
 
 - 👯 I’m looking to collaborate on **PYTHON PROJECTS OR JAVA PROJECTS**
 
