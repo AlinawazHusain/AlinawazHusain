@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **PYTON, JAVA, DATA SCIENCE, APP DEVELOPMENT**
 
-- 👯 I’m looking to collaborate on **PYTHON PROJECTS RO JAVA PROJECTS**
+- 👯 I’m looking to collaborate on **PYTHON PROJECTS OR JAVA PROJECTS**
 
 - 💬 Ask me about **ANYTHING**
 
