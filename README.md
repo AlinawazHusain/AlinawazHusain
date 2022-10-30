@@ -3,7 +3,7 @@
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **PYTON, JAVA, DATA SCIENCE, APP DEVELOPMENT**
 
-- 👯 I’m looking to collaborate on **PYTHON PROJECTS OR JAVA PROJECTS**
+- 👯 I’m looking to collaborate on **PYTHON PROJECTS RO JAVA PROJECTS**
 
 - 💬 Ask me about **ANYTHING**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alinawaz-husain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alinawaz-husain-233641254/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alinawaz-husain-233641254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alinawaz-husain-233641254/" height="30" width="40" /></a>
 <a href="https://instagram.com/alinawaz.husain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alinawaz.husain" height="30" width="40" /></a>
 </p>
 
