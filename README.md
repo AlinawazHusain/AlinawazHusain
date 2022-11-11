@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **PYTHON PROJECTS OR JAVA PROJECTS**
 
-- 💬 Ask me about **ANYTHING**
+- 💬 Ask me about **collab for some awesome projects**
 
 - 📫 How to reach me **ALINAWAZHUSAIN01@GMAIL.COM**
 
