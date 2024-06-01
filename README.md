@@ -14,7 +14,7 @@ https://64.media.tumblr.com/e1ae01dd191e8a302542b92cb63f2f5c/tumblr_n72drxSIMW1r
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alinawaz-husain-233641254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinawaz husain" height="30" width="40" /></a>
-<a href="https://instagram.com/alinawaz.husain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/alinawaz.husain" height="30" width="40" /></a>
+<a href="https://instagram.com/alinawaz_husain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/alinawaz.husain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
