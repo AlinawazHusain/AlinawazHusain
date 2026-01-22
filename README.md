@@ -3,18 +3,17 @@ https://64.media.tumblr.com/e1ae01dd191e8a302542b92cb63f2f5c/tumblr_n72drxSIMW1r
 )
 <h1 align="center">Hey 👋, ALINAWAZ HUSAIN THIS SIDE</h1>
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-<h3 align="center">A passionate Computer Science Student from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **alinawazhusain2002@gmail.com**
+- 📫 How to reach me **alinawazhusain07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alinawaz-husain-233641254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinawaz husain" height="30" width="40" /></a>
-<a href="https://instagram.com/alinawaz_husain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/alinawaz.husain" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/alinawaz-husain-3a62153a5/](https://www.linkedin.com/in/alinawaz-husain-3a62153a5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinawaz husain" height="30" width="40" /></a>
+<a href="https://instagram.com/alinawaz.husain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/alinawaz.husain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
